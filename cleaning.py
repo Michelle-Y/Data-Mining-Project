@@ -38,6 +38,16 @@ def tokenizer(tweet_set):
         compl_tweets.append(" ".join(str(x) for x in tmp_sent))
     return compl_tweets
 
+def VaderScore(tweet_set):
+    sid = SentimentIntensityAnalyzer()
+    for sentence in tweet_set[:2]:
+        print (sentence)
+        ss = sid.polarity_scores(sentence)
+        for k in sorted(ss):
+            print ('{0}: {1}, '.format(k, ss[k]), end='')
+        print()
+
+
 if __name__ == "__main__":
     print ("Starting cleaning process")
     print ("Step 1: Retrieve Data")
