@@ -4,8 +4,7 @@
 **Zihan Zhou**
 
 ## Description
-Nowadays, social media have tons of users, and millions of people share opinions on different aspects of life everyday. It’s interesting to figure out how people express their sentiments through different words, emojis, etc. This paper and research serves to provide a better understanding about human sentiment on social media, especially in Twitter. Also we want to find the emotions behind a series of words, used to gain an understanding of the attitudes, opinions and emotions expressed within an online mention.
-Our project will serve as a study of sentiment analysis based on Twitter data. The applications of sentiment analysis are broad and powerful. For example, the shifts in sentiment on social media have been shown to correlate with shifts in the stock market. In this project, the research will draw motivation from people to understand and analyze the people’s opinions more efficiently.
+With the increasing usage of internet, social media has promoted information dissemination in social network. By using sentiment analysis, there is a significant application in both industry and academic. It helps companies and media organizations improve user experience and promote economic development. This paper and research serves to provide a better understanding about human sentiment on social media, especially in Twitter. We investigate the utility of linguistic features for detecting the sentiment of Twitter message. Based on two data sets of more than 1.8 million tweets in total, we find that the sentiment expressed on Twitter changes by time, especially the emotional Twitter messages. 
 
 ## Questions Sought to Answer
 
@@ -26,4 +25,4 @@ For improving language processing, if we had more time we would've started this 
 put link here
 
 ## Link to final project paper:
-put link here
+https://github.com/Michelle-Y/Data-Mining-Project/blob/zzh/13_BeSmartTwitter_Part4.pdf
