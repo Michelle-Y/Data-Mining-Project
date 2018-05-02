@@ -22,7 +22,7 @@ Due to what we found about peoples positive and negative sentiment, we could cre
 For improving language processing, if we had more time we would've started this on our own. We believe that taking the set of tweets containing emojis and scoring them differently will produce more accurate results. Vader handles sarcasm already so given the context, it should be able to realize that there is ironic text surrounding the emoji so the value of the smiley face should add to the existing sentiment rather than contradicting it.
 
 ## Link to final video:
-put link here
+https://youtu.be/tJ4GzjQfqiU
 
 ## Link to final project paper:
 https://github.com/Michelle-Y/Data-Mining-Project/blob/zzh/13_BeSmartTwitter_Part4.pdf
